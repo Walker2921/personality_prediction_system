@@ -1,0 +1,59 @@
+---
+title: "home_page"
+author: "Kulwant Singh Dhama"
+date: "29/11/2020"
+output: html_document
+---
+
+
+
+
+# Welcome
+
+##### Have you ever thought about who you are and why you do things the way you do ?
+
+##### Here's the test that will reveal your personality !!!
+
+##### This test takes about 8-10 minutes to finish.
+##### There will be 50 questions consisting 5 options categorized as Strongly Disagree, Disagree, Neutral, Agree, Strongly agree. The test is based on the Five factor (OCEAN) model. 
+
+##### In psychology trait theory, the Big five personality traits, also known as the five-factor model and OCEAN or CANOE model, is a grouping for personality traits developed from the 1980s.
+
+##### The five traits are Openess to experience, Conscientiousness, Extraversion, Agreeableness, Neuroticism, using these traits a person's most important characterstics are measured.
+
+
+### Openness
+
+Openness to Experience, otherwise known as the ‘creative’ trait of The Big Five, describes the ability to be innovative and think outside of the box. People who are high in Openness tend to be comfortable with abstract ideas, and are drawn towards opportunities that allow you to flex your creativity. These individuals are usually optimistic with bold personalities, and have a thirst for a career that allows them to embrace these qualities in an exciting work environment. The need to keep learning and staying challenged is also important.
+
+### Conscientiousness
+
+Conscientiousness personality types are known for their ability to remain calm under pressure, as well as being skilled in analysing complex situations and thinking up logical solutions. The Conscientiousness trait enjoys tackling new challenges that develop; utilising their pragmatic and logical mindset to achieve their goals.
+
+Conscientiousness types have a great eye for change and innovation and are well-known for their high levels of thoughtfulness and superb attention to detail. Those who possess this personality trait enjoy working by a schedule in a work environment that accommodates their need to learn on the job and expand their knowledge with new skills.
+
+### Extraversion
+
+People with a high level of extraversion are known for being assertive, persuasive and optimistic, with a high value for personal growth and the persistence to develop their skill set. They are social creatures who enjoy being the center of attention. They have hard-working natures and thrive in team environments.
+
+Extroverts require a workplace that allows them to achieve their personal development goals. In contrast, people low in extroversion, (introverts), prefer to spend their time working on solo projects or with close friends, rather than being the life of the party. 
+
+These individuals are always on the lookout for new opportunities, and are very capable when working in leadership positions.
+
+### Agreeableness
+
+Agreeable people are known for their kind, compassionate and friendly nature. These individuals require a career that allows them to support, attend to and care for others, as they long for a sense of purpose and are driven by their ability to make a difference to the world.
+
+In an Agreeable work environment, there will be high levels of collaboration with plenty of opportunities that are challenging, yet very personally rewarding. People high in this trait are amazing at facilitating cooperation with warmth and tact.
+
+### Neuroticism
+
+Neuroticism, is a trait that has many negative connotations attached as it relates to an individual’s predisposition to demonstrating anxiety and negative feelings and emotions. People who score low on this scale are emotionally stable and confident.
+
+Contrary to belief, healthy neurotics have an ability to combine high stress levels with high levels of attentiveness, which is a skill that most employers seek within a candidate. Individuals who identify with the Emotional trait are able to use the stress of a deadline or other work stressors to focus their mind and draw on their productivity, rather than allow these immense pressures to kill their drive.
+
+Of course, this is all dependent on how that individual handles these stressors – high levels of neuroticism can cause stress in the workplace, which can then lead to both health and productivity issues.
+
+
+
+## So, Let's get started!

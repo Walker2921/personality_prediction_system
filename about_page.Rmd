@@ -1,0 +1,36 @@
+---
+title: "About_Page"
+author: "Kulwant Singh Dhama"
+date: "03/12/2020"
+output: html_document
+---
+
+
+
+## [Big 5 Personality Traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
+
+##### In psychological trait theory, the Big Five personality traits, also known as the five-factor model (FFM) and the OCEAN model, is a suggested taxonomy, or grouping, for personality traits, developed from the 1980s onwards. When factor analysis (a statistical technique) is applied to personality survey data, it reveals semantic associations: some words used to describe aspects of personality are often applied to the same person. For example, someone described as conscientious is more likely to be described as "always prepared" rather than "messy". These associations suggest five broad dimensions used in common language to describe the human personality and psyche.
+
+* #### Openness
+##### This trait features characteristics such as imagination and insight. People who are high in this trait also tend to have a broad range of interests. They are curious about the world and other people and eager to learn new things and enjoy new experiences. People who are high in this trait tend to be more adventurous and creative. People low in this trait are often much more traditional and may struggle with abstract thinking.
+
+* #### Conscientiousness
+##### Standard features of this dimension include high levels of thoughtfulness, good impulse control, and goal-directed behaviors. Highly conscientious people tend to be organized and mindful of details. They plan ahead, think about how their behavior affects others, and are mindful of deadlines.
+
+* #### Extraversion
+##### Extraversion (or extroversion) is characterized by excitability, sociability, talkativeness, assertiveness, and high amounts of emotional expressiveness. People who are high in extraversion are outgoing and tend to gain energy in social situations. Being around other people helps them feel energized and excited. People who are low in extraversion (or introverted) tend to be more reserved and have less energy to expend in social settings. Social events can feel draining and introverts often require a period of solitude and quiet in order to "recharge."
+
+* #### Agreeableness
+##### This personality dimension includes attributes such as trust, altruism, kindness, affection, and other prosocial behaviors. People who are high in agreeableness tend to be more cooperative while those low in this trait tend to be more competitive and sometimes even manipulative.
+
+* #### Neuroticism
+##### Neuroticism is a trait characterized by sadness, moodiness, and emotional instability. Individuals who are high in this trait tend to experience mood swings, anxiety, irritability, and sadness. Those low in this trait tend to be more stable and emotionally resilient.
+
+
+## [Questions](https://ipip.ori.org/new_ipip-50-item-scale.htm) 
+
+##### Questions that are used in this test are taken from the official website of International Personality Item Pool ([IPIP](https://ipip.ori.org/)) 
+
+## [ML model](https://rpubs.com/Walker_2921/701660)
+
+##### ML model used in the evaluation of the questions was a custom-build model, specifically designed for these specific questions.
