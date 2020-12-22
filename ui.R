@@ -66,7 +66,7 @@ fluidPage(theme = shinytheme("flatly"),
                                         div(includeMarkdown("about_page.Rmd"), align = "justify"), 
                                         HTML('<hr style="color: black;">'), 
                                         textOutput("keepAlive"), 
-                                        tags$h6("This application was developed by Kulwant Singh Dhama, in 2020. For any query or suggestion, contact at dhamaks@gmail.com", 
+                                        tags$h6("This application was designed and developed by Kulwant Singh Dhama, in 2020. For any query or suggestion, contact at dhamaks@gmail.com", 
                                                 align = "center")
                                ),
                                
